@@ -12,7 +12,7 @@ On a more personal level, I have always been interested in software and tech fro
 
 - 🔭 Back-end： ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-circle&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-circle&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-circle&logo=c&logoColor=white)
 
-- 👯 Front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+- 🖼️ Front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 
 - :hammer_and_wrench: Tools：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-circle&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-circle&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-circle&logo=microsoft-azure&logoColor=white)
 
@@ -20,7 +20,7 @@ On a more personal level, I have always been interested in software and tech fro
 
 - 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) 
 
-- 👯 Methodologies：Certified Scrum Master | Kanban | DevOps
+- 🤝 Methodologies：Certified Scrum Master | Kanban | DevOps
  
 - 🌱 Learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
 
