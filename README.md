@@ -18,7 +18,7 @@ On a more personal level, I have always been interested in software and tech fro
 
 - ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell) ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux) ![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab) ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-circle&logo=Jira&logoColor=white)
 
-- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) 
+- 👨‍💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) 
 
 - 🤝 Methodologies：Certified Scrum Master | Kanban | DevOps
  
