@@ -1,6 +1,6 @@
 # Welcome! Take a seat and have some tea (or coffee if you prefer)! 👋🍵☕
 
-A Full-Stack Engineer [@100Devs](https://github.com/100devs) by day ☼ video game modder by night ☾
+**Full-Stack Engineer [@100Devs](https://github.com/100devs) by day ☼ video game modder by night ☾**
 
 # About Me 💬
 
