@@ -10,7 +10,7 @@ On a more personal level, I have always been interested in software and tech fro
 
 # 🛠 Tech Stack
 
-- 🔭 Back-end： ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-circle&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-circle&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-circle&logo=c&logoColor=white)
+- 🔭 Back-end： ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-circle&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-circle&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-circle&logo=c&logoColor=white)
 
 - 🖼️ Front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 
