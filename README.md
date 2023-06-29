@@ -1,3 +1,5 @@
+![bannergif](https://github.com/malaz-naquib/malaz-naquib/assets/113329798/1fb30aa0-efd1-4579-b18b-84e781dca322)
+
 # Welcome! Take a seat and have some tea (or coffee if you prefer)! 👋🍵☕
 
 **Full-Stack Engineer [@100Devs](https://github.com/100devs) by day ☼ video game modder by night ☾**
