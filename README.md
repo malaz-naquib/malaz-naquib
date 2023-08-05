@@ -1,4 +1,4 @@
-![bannergif](https://github.com/malaz-naquib/malaz-naquib/assets/113329798/1fb30aa0-efd1-4579-b18b-84e781dca322)
+![github-header-image](https://github.com/malaz-naquib/malaz-naquib/assets/113329798/a67ec975-d03b-46e3-8715-1c54d1e43410)
 
 # Welcome! Take a seat and have some tea (or coffee if you prefer)! 👋🍵☕
 
