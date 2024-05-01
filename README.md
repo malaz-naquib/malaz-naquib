@@ -3,7 +3,7 @@
 
 # Welcome! Take a seat and have some tea (or coffee if you prefer)! 👋🍵☕
 
-### **Software Engineer [@100Devs](https://github.com/100devs) by day ☼ video game modder by night ☾**
+### **Software Engineer & Head of Software Project Management @ Career Study by day ☼ video game modder by night ☾**
 
 # About Me 💬
 
