@@ -3,7 +3,7 @@
 
 # Welcome! Take a seat and have some tea (or coffee if you prefer)! 👋🍵☕
 
-### **Software Engineer & Head of Software Project Management @ Career Study by day ☼ video game modder by night ☾**
+### **Head of Software Project Management & Software Engineer &  @ Career Study by day ☼ video game modder by night ☾**
 
 # About Me 💬
 
