@@ -3,11 +3,11 @@
 
 # Welcome! Take a seat and have some tea (or coffee if you prefer)! 👋🍵☕
 
-### **Technical Project/Product Manager & Software Engineer &  @ Career Study by day ☼ video game modder by night ☾**
+### **Technical Program/Product Manager & Software Engineer &  @ Career Study by day ☼ video game modder by night ☾**
 
 # About Me 💬
 
-I am an experienced Software Engineer and Technical Project/Product Manager currently heading software development at Career Study. In my free time, I teach full-stack development at 100Devs. Proven track record of leading the software development lifecycle on multiple large scale web projects. These web projects include scoping, developing, and pushing new features, bug fixes, various DevOps pipelines, cloud architecture, and 200+ websites, CRMs, and CMAs for top real estate teams internationally. Deep interest in AI and machine learning; bringing my skills to innovative tech companies with global reach.
+I'm an experienced Technical Program, Product, and Project Manager with a background in software engineering, currently heading software development at Career Study. In my free time, I teach full-stack development at 100Devs. Proven track record of leading the software development lifecycle on multiple large scale web projects. These web projects include scoping, developing, and pushing new features, bug fixes, various DevOps pipelines, cloud architecture, and 200+ websites, CRMs, and CMAs for top real estate teams internationally. Deep interest in AI and machine learning; bringing my skills to innovative tech companies with global reach.
 
 Throughout the COVID-19 pandemic, I worked as a healthcare giver and housing case manager; providing me insight into the importance of software in my role throughout the pandemic. Recently, I worked as a Software Project Manager for Brivity, a real estate software company building software for the top 1% of international real estate teams. In my current position as a Technical Project/Product Manager & Software Engineer at Career Study, I'm experienced in leading engineering teams to deliver exemplary, error-free web projects and products while also creating an uplifting, supportive work environment.
 
